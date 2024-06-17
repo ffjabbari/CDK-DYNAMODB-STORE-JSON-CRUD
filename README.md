@@ -1,3 +1,108 @@
+
+FRED FRED FRED:
+
+
+ 981  npm i
+
+  982  npm run build
+
+  983  cdk install @aws-cdk/aws-dynamodb
+
+  984  npm  install @aws-cdk/aws-dynamodb
+
+  985  npm  install @aws-cdk-lib/aws-lambda
+
+  986  npm  install @aws-cdk/aws-cdk-lin/ass-lambda
+
+  987  npm  install @aws-cdk/aws-cdk-lib/ass-lambda
+
+  988  npm  install @aws-cdk/aws-cdk-lib/aws-lambda
+
+  989  npm  install @aws-cdk-lib/aws-lambda
+
+  990  npm  install aws-cdk-lib/aws-lambda
+
+  991  npm  install aws-cdk-lib/aws-lambda-nodejs
+
+  992  npm  install @aws-cdk-lib/aws-lambda-nodejs
+
+  993  npm run build
+
+  994  npm i @types/lambda
+
+  995  npm i @types/aws-lambda
+
+  996  npm run build
+
+  997  npm install -g typescript
+
+  998  npm i
+
+  999  npm run build
+
+ 1000* cd ..
+
+ 1001* ls
+
+ 1002* cd CDK-Eventbridge-invioking-lambda001
+
+ 1003* code . 
+ 
+ 1004* git add .
+ 
+ 1005* git commit -ma"change for this work..."
+
+
+ 1005* git commit -ma"change for this work..."
+
+ 1006* git push origin head
+
+ 1007* vi ~/zddd
+
+ 1008* history>~/zfff
+
+ 1009* vi ~/zfff
+
+ 1010* git add .
+
+ 1011* git commit -ma"change for this work..."
+
+ 1012* git push origin head
+
+ 1013  npm install -g npm-check-updates
+
+ 1014  ncu -u
+
+ 1015  npm i
+
+ 1016  npm run build
+
+ 1017  history>~/zggg
+
+ 1018  vi ~/zggg
+
+ 1019  ls
+
+ 1020  npm run build
+
+ 1021  cdk bootstrap aws://636090713215/us-east-1
+
+ 1022  cdk synth
+
+ 1023  cdk deploy
+
+ 1024  cat .git/config
+
+ 1025  git remote set-url origin git@github.com:ffjabbari/CDK-DYNAMODB-STORE-JSON-CRUD.git
+
+ 1026  git status
+ 
+ 1027  git add .
+
+ 1028  git commit -ma"change for this work..."
+
+ 1029  git push origin head
+
 # Build your Lambda with Typescript using AWS CDK
 
 _Infrastructure as code framework used_: AWS CDK
