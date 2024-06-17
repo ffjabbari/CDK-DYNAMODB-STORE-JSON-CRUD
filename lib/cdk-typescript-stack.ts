@@ -3,7 +3,7 @@ import { Stack, StackProps, CfnOutput } from 'aws-cdk-lib';
 
 import { AttributeType, Table } from 'aws-cdk-lib/aws-dynamodb';
 import {Runtime, FunctionUrlAuthType } from "aws-cdk-lib/aws-lambda";
-import {NodejsFunction} from "aws-cdk-lib/aws-lambda-nodejs"
+import {NodejsFunction} from "aws-cdk-lib/aws-lambda-nodejs";
 import * as path from 'path';
 
 export class CdkTypescriptStack extends Stack {
@@ -17,7 +17,7 @@ export class CdkTypescriptStack extends Stack {
 
     // lambda function
     const dynamoLambda = new NodejsFunction(this, "DynamoLambdaHandler", {
-      runtime: Runtime.NODEJS_14_X,
+      runtime: Runtime.NODEJS_LATEST,
       entry: path.join(__dirname, `/../functions/function.ts`),
       handler: "handler",
       environment: {
